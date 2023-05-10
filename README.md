@@ -7,11 +7,11 @@ Sou uma carioca de 23 anos, responsável por oito gatinhos e descobrindo uma pai
 </div>
 
 <p align="center">
-  <img width="100px" src="https://www.purarteadesivos.com.br/wp-content/uploads/2019/10/adesivo-personalizado-baby-groot-sticker-para-carro-guardioes-da-galaxia-geek-pura-arte-adesivos.png" width="350">
+  <img width="100px" src="https://www.purarteadesivos.com.br/wp-content/uploads/2019/10/adesivo-personalizado-baby-groot-sticker-para-carro-guardioes-da-galaxia-geek-pura-arte-adesivos.png">
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="">
+<img width="200px" align="right" src="https://github.com/Julia-Pauline/Julia-Pauline/assets/112868310/f7437148-004d-452a-8c65-440d9dda345a">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
