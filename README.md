@@ -1,7 +1,7 @@
  <div>
    <a href="https://github.com/Julia-Pauline">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julia-Pauline&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Pauline&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github.com/Julia-Pauline/Julia-Pauline/edit/main/README.md"/>
+   <img height="180em" src="https://github.com/Julia-Pauline/Julia-Pauline/edit/main/README.md"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -12,7 +12,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Sejam bem muito bem-vind@s!
  
 <div> 
    <a href="https://instagram.com/paulinesjulia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
