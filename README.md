@@ -12,7 +12,7 @@
  
  <br>
  
-  ### Sejam bem muito bem-vind@s!
+  ### Sejam muito bem-vind@s! 
  
 <div> 
    <a href="https://instagram.com/paulinesjulia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
