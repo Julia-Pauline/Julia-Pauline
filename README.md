@@ -1,11 +1,12 @@
    ### Olá, sejam muito bem-vind@s! 
  
- <div>
+ <div dsplay="inline-block">
      <a href="https://github.com/Julia-Pauline">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julia-Pauline&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Pauline&layout=compact&langs_count=6&theme=dracula"/>
+    </div>
 
-</div>
+   <img src="" width="80px">
 
  <br>
   
