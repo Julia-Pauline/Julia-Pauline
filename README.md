@@ -11,7 +11,7 @@ Sou uma carioca de 23 anos, responsável por oito gatinhos e descobrindo uma pai
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="200px" align="right" src="https://github.com/Julia-Pauline/Julia-Pauline/assets/112868310/f7437148-004d-452a-8c65-440d9dda345a">
+<img width="200px" align="right" src="https://github.com/Julia-Pauline/Julia-Pauline/assets/112868310/f7165614-c4c2-4226-84b3-2fcdcc13fcf4">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
