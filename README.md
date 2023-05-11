@@ -44,7 +44,7 @@ Sou uma carioca de 23 anos, responsável por oito gatinhos e descobrindo uma pai
     </div>
 </p>
 
-## Contato de uma alma bem legal, vulgo: eu 😊!!
+## Contato de uma alma bem legal, vulgo: eu!!😊
  <a href="https://www.instagram.com/paulinesjulia">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
